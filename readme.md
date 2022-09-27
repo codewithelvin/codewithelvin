@@ -26,7 +26,7 @@
 ![Sass](./icons/Sass.svg)&nbsp;
 ![Git](./icons/Git.svg)&nbsp;
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤙 &nbsp;Connect with Me
 
 <p align="center">
     <a href="https://www.elvinhuseynov.com">
