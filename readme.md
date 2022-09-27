@@ -1,26 +1,56 @@
-<h1 align="center">Hi 👋, I'm Elvin</h1>
-<h3 align="center">A passionate front-end developers from Azerbaijan</h3>
+<!--suppress HtmlDeprecatedAttribute -->
+
+[<img align='right' src="./img/alvin.png" width="220" alt="alvin">](https://t.me/elvinhuseynov)
+
+<h1 align="center">Hi 👋, I'm Elvin (Alvin)</h1>
+<h3 align="center">A passionate chipmunk developer from Azerbaijan 🇦🇿</h3>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neo-azazello&label=Profile%20views&color=0e75b6&style=flat" alt="neo-azazello" /> </p>
 
-<p align="left"> <a href="https://twitter.com/elvin_huseynoff" target="blank"><img src="https://img.shields.io/twitter/follow/elvin_huseynoff?logo=twitter&style=for-the-badge" alt="elvin_huseynoff" /></a> </p>
+### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on [State Tax Service System](https://new.e-taxes.gov.az/eportal/en/login/)
-
+- 🔭 I’m currently working on (developing front-end) [State Tax Service System](https://new.e-taxes.gov.az/eportal/en/login/)
 - 🌱 I’m currently learning **cs, system design, etc.**
-
 - 👨‍💻 All of my projects are available at [elvinhuseynov.com](elvinhuseynov.com)
-
 - 💬 Ask me about **react, javascript, typescript**
 
-- 📫 How to reach me **[Telegram](https://t.me/elvinhuseynov)**
+### 🛠 &nbsp;Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/elvin_huseynoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elvin_huseynoff" height="30" width="40" /></a>
+![JavaScript](./icons/JavaScript.svg)&nbsp;
+![Typescript](./icons/Typescript.svg)&nbsp;
+![React](./icons/React.svg)&nbsp;
+![Node.js](./icons/Node.svg)&nbsp;
+![Bootstrap](./icons/Bootstrap.svg)
+![HTML](./icons/HTML.svg)&nbsp;
+![CSS](./icons/CSS.svg)&nbsp;
+![Sass](./icons/Sass.svg)&nbsp;
+![Git](./icons/Git.svg)&nbsp;
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+    <a href="https://www.elvinhuseynov.com">
+        <img src="https://img.shields.io/badge/-elvinhuseynov.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/elvinihuseynov">
+        <img src="https://img.shields.io/badge/-Elvin%20Hüseynov-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+    </a>
+    <a href="https://www.facebook.com/codewithelvin">
+        <img src="https://img.shields.io/badge/-@codewithelvin-1877F2?style=flat&logo=Facebook&logoColor=white"/>
+    </a>
+    <a href="https://t.me/elvinhuseynov">
+        <img src="https://img.shields.io/badge/-@elvinhuseynov-0088CC?style=flat&logo=Telegram&logoColor=white"/>
+    </a>
+    <a href="https://twitter.com/elvin_huseynoff">
+        <img src="https://img.shields.io/badge/-@elvin_huseynoff-1d9bf0?style=flat&logo=Twitter&logoColor=white"/>
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### 📶 &nbsp;GitHub Statistics
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithelvin&show_icons=true&locale=en&layout=compact" alt="codewithelvin" /></p>
+<p align="center">
+<a href="https://github.com/codewithelvin">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codewithelvin&show_icons=true&theme=algolia&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codewithelvin&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
