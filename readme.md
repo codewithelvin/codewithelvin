@@ -30,27 +30,27 @@
 
 <p align="center">
     <a href="https://www.elvinhuseynov.com">
-        <img src="https://img.shields.io/badge/-elvinhuseynov.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/>
+        <img src="./icons/elvinhuseynov.svg"/>
     </a>
     <a href="https://www.linkedin.com/in/elvinihuseynov">
-        <img src="https://img.shields.io/badge/-Elvin%20Hüseynov-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+        <img src="./icons/linkedin.svg"/>
     </a>
     <a href="https://www.facebook.com/codewithelvin">
-        <img src="https://img.shields.io/badge/-@codewithelvin-1877F2?style=flat&logo=Facebook&logoColor=white"/>
+        <img src="./icons/fb_elvin.svg"/>
     </a>
     <a href="https://t.me/elvinhuseynov">
-        <img src="https://img.shields.io/badge/-@elvinhuseynov-0088CC?style=flat&logo=Telegram&logoColor=white"/>
+        <img src="./icons/my_telegram.svg"/>
     </a>
     <a href="https://twitter.com/elvin_huseynoff">
-        <img src="https://img.shields.io/badge/-@elvin_huseynoff-1d9bf0?style=flat&logo=Twitter&logoColor=white"/>
+        <img src="./icons/my_twitter.svg"/>
     </a>
 </p>
 
 ### 📶 &nbsp;GitHub Statistics
 
 <p align="center">
-<a href="https://github.com/codewithelvin">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codewithelvin&show_icons=true&theme=algolia&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codewithelvin&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/codewithelvin" style="display:flex; justify-content:space-between;">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codewithelvin&show_icons=true&theme=algolia&include_all_commits=true"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codewithelvin&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
