@@ -1,14 +1,45 @@
-<h1 align="center">Hi 👋, I'm Elvin (a.k.a Alvin)</h1>
-<h3 align="center">A passionate front-end developer from Azerbaijan 🇦🇿</h3>
+<h1 align="center">Hi 👋, I'm Elvin</h1>
+<h3 align="center">Front-end Developer crafting polished user experiences with React, TypeScript, and modern web design.</h3>
 
 ---
 
 ### 👨🏻‍💻 About Me
 
-- 🔭 Currently working on the front-end of the [State Tax Service System](https://new.e-taxes.gov.az/eportal/en/login/)
-- 🌱 Learning computer science fundamentals, system design, and Java
-- 💬 Ask me about **React, JavaScript, TypeScript, Node.js, Java**
-- 🌐 More about me: [codewithelvin.com](https://codewithelvin.com)
+I am a front-end developer based in Azerbaijan 🇦🇿 with a strong focus on responsive, accessible, and performance-driven web applications. I currently contribute to the front-end of the **Internet Tax Administration** and **Automated Tax Information System** , supporting a critical public service with reliable user interfaces.
+
+---
+
+### 🚀 What I Do
+
+- Build scalable, maintainable front-end interfaces with React and modern JavaScript
+- Deliver responsive UI experiences using TypeScript, HTML5, and CSS3
+- Optimize performance, accessibility, and browser compatibility
+- Collaborate with designers, backend teams, and stakeholders to ship polished products
+
+---
+
+### 💡 Skills & Technologies
+
+- **Frontend:** React, TypeScript, JavaScript, HTML5, CSS3, SCSS
+- **Tools:** Git, Vite, Webpack, ESLint, Prettier
+- **Backend:** Node.js, Java, Spring Boot
+- **Principles:** Responsive design, component-driven architecture, accessibility, performance
+
+---
+
+### 🏆 Highlights
+
+- Delivered front-end functionality for a national tax portal used by citizens and businesses
+- Built reusable UI components and improved front-end architecture for maintainability
+- Expanded expertise in system design, Java fundamentals, and full-stack collaboration
+
+---
+
+### 📁 Featured Projects
+
+- **Tax Service Systems** — Front-end development for a public national taxation portal and automated tax information system
+- **Personal website** — Portfolio and resume hub at [codewithelvin.com](https://codewithelvin.com)
+- **Open-source contributions** — Reusable front-end components and productivity tools
 
 ---
 
@@ -16,26 +47,15 @@
 
 <p align="center">
   <a href="https://codewithelvin.com" target="_blank">
-    <img src="./icons/elvinhuseynov.svg" alt="Website" title="Website"/>
+    <img src="./icons/elvinhuseynov.svg" alt="Website" title="Website" />
   </a>
   <a href="https://www.linkedin.com/in/elvinihuseynov" target="_blank">
-    <img src="./icons/linkedin.svg" alt="LinkedIn" title="LinkedIn"/>
+    <img src="./icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" />
   </a>
-  <a href="https://t.me/elvinhuseynov" target="_blank">
-    <img src="./icons/my_telegram.svg" alt="Telegram" title="Telegram"/>
+  <a href="https://t.me/elvinihuseynov" target="_blank">
+    <img src="./icons/my_telegram.svg" alt="Telegram" title="Telegram" />
   </a>
   <a href="https://x.com/codewithelvin" target="_blank">
-    <img src="./icons/my_twitter.svg" alt="X" title="Twitter"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/codewithelvin">
-    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codewithelvin&show_icons=true&theme=algolia&include_all_commits=true" alt="Elvin's GitHub Stats"/>
-    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codewithelvin&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+    <img src="./icons/my_twitter.svg" alt="X" title="Twitter" />
   </a>
 </p>
